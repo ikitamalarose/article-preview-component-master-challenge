@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository link](https://your-solution-url.com)
-- Live Site URL: [Got to the site](https://your-live-site-url.com)
+- Solution URL: [Repository link](https://github.com/ikitamalarose/article-preview-component-master-challenge.git)
+- Live Site URL: [Got to the site](https://article-preview-component-master-challenge.vercel.app/)
 
 ## My process
 
@@ -46,5 +46,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@ikitamalarose](https://www.frontendmentor.io/profile/ikitamalarose)
+- Twitter - [@ikitamalarose](https://www.twitter.com/ikitamalarose)

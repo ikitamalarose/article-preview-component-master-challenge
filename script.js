@@ -43,6 +43,3 @@ btnShareFooterBlue.addEventListener('click', () => {
     footer.style.display = 'flex';
 });
 
-// Check media queries on page load and window resize
-window.addEventListener('load', handleFooterDisplay);
-window.addEventListener('resize', handleFooterDisplay);
